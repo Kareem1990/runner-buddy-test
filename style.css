@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  padding: 50px, red;
 }
 
 body {
@@ -44,6 +43,7 @@ header nav ul li a {
   font-size: 22px;
 }
 
+
 footer {
   background: #fce138;
   width: 100%;
@@ -65,4 +65,9 @@ footer div {
 
 footer a {
   color: #024e76;
+}
+
+section {
+  padding: 60px;
+  background-image: url("/Users//Users/kareemmagdy/Desktop/Snipshot/runner-buddy-test/assets/hero-bg.jpeg/Desktop/Snipshot/runner-buddy-test/style.css");
 }
