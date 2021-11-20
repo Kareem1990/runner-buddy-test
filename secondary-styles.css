@@ -1,6 +1,60 @@
+/* Hero Style Start */
 .hero {
+  background-image: url(/Users/kareemmagdy/Desktop/Snipshot/runner-buddy-test/hero-bg.jpeg);
+  height: 300px;
+  background-size: cover;
+  position: relative;
+}
+
+/* privacy policy */
+
+/* .hero { 
     background-position: bottom;
     height: auto;
     text-align: center;
     margin-bottom: 40px;
+    background-size:cover;
+  }*/
+
+
+  section {
+    margin: 10px 50px;
+    padding: 20px 25px
+  }
+
+
+  .page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid  #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+    position: relative
+      }
+
+  .secondary-content {
+    width: 80%;
+    margin: 30px auto 60px;
+    color: #024376;
+
+  }
+
+  .secondary-content h3 {
+    font-size: 25px;
+    margin: 20px;
+  }
+  .secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px;
+  }
+
+  .secondary-content ul {
+    margin: 15px;
+  }
+  .secondary-content ul li {
+    color: #39a6b2;
+    margin: 10px;
   }
